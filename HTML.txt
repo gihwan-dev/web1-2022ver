@@ -1,0 +1,28 @@
+HTML
+    1. Tag: <~ attribute> ... </~>, 
+        strong(strong font), u(under line), h1(Title font, include line-break character)[h1~h6], br(line-break tag)[Not require surrounding]
+        p(Paragraph), img(Insert image){attribute: width="~%, digit", src="iamage file name"}, li(list tag), ul(Unordered-li-parent)
+        ol(Odered list[li-parent]), title(title)
+    2. Searching: stastics(advanced web ranking), googling
+
+    3. Basics is most important.
+
+    4. Why HTML is important? : whatever
+
+    5. Parent and child relationship:  <parent>
+                                        <child> ~ </chile>
+                                    </parent>
+                                    example: ul - li
+    
+    6. HTML structure:
+    <!doctype html>
+    <html>
+    <head> ~ 
+        <title> ~ </title>
+    </head>
+    <meta charset="utf-8">
+    </html>
+
+    7. King of tag: <a href="link" target="_blank" title="title">(linking tag, linking, New tap, title)
+
+    8. How to connect each web page? : <a href="input connected file name">
